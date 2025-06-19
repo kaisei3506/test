@@ -1,0 +1,9 @@
+# 重いライブラリ
+pyyaml
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+torch
+torchvision
